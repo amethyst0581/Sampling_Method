@@ -1,0 +1,6 @@
+,Sampling Method,Accuracy
+Logistic Regression,Tomek Links,0.9895833333333334
+Decision Tree,Tomek Links,0.984375
+SVM Classifier,Tomek Links,0.9895833333333334
+Random Forest,Random Oversampling,0.9973821989528796
+Gradient Boosting,Random Oversampling,0.9921465968586387
